@@ -1,1 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
+
+body {
+    background-color: #f3e5d8;
+
+
+}
+
+h1{
+    font-family: 'Young Serif';
+}
+
+h2{
+    color: red;
+
+}
+.container {
+background-color: white;
+width: 400px;
+height: 300px;
+}
+
+img{
+width: 600px;
+height: 300px;
+}
